@@ -1,0 +1,111 @@
+body {
+  text-align: center;
+  background-color: #283149;
+  font-family: 'Shrikhand', cursive;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+.w {
+  
+}
+
+.a {
+
+}
+
+.s {
+
+}
+
+.d {
+
+}
+
+.j {
+
+}
+
+.k {
+
+}
+
+.l {
+
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+  font-family: 'Shrikhand', cursive;
+  
+}
+.w.drum{
+  background-color:burlywood;
+  box-shadow: 10px 5px 15px burlywood
+  
+
+}
+.a.drum{
+  background-color:#c0ded9;
+  box-shadow: 10px 5px 15px #c0ded9
+}
+.s.drum{
+  background-color: #e4d1d1 ;
+  box-shadow: 10px 5px 15px #e4d1d1
+}
+.d.drum{
+  background-color:#77a8a8;
+  box-shadow: 10px 5px 15px #b7d7e8
+}
+.j.drum{
+  background-color:#b0aac0 ;
+  box-shadow: 10px 5px 15px #b0aac0
+}
+.k.drum{
+  background-color:#b7d7e8 ;
+  box-shadow: 10px 5px 15px #b7d7e8
+}
+.l.drum{
+  background-color:#f9ccac ;
+  box-shadow: 10px 5px 15px #f9ccac
+}
+
+
+
+
