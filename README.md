@@ -1,5 +1,9 @@
 # amfoss-tasks
 I am Rahul Rajesh Kumar From Kerala,fresher at Amrita School of Engineering(CSE 2022)
+-------------------------------------------------------------------
+| Tasks   |	Description		     |   Status           |
+| List    |                                  |                    |
+|---------|----------------------------------|--------------------|
 | Task-00 | Install Ubuntu 20.04 [Desktop]   | Completed          |
 |---------|----------------------------------|--------------------|
 | Task-01 | Star all the amFOSS repositories | Completed          |
