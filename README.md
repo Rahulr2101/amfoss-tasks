@@ -1,6 +1,7 @@
 # amfoss-tasks
 I am Rahul Rajesh Kumar From Kerala,fresher at Amrita School of Engineering(CSE 2022)
--------------------------------------------------------------------
+
+|-----------------------------------------------------------------|
 | Tasks   |	Description		     |   Status           |
 | List    |                                  |                    |
 |---------|----------------------------------|--------------------|
