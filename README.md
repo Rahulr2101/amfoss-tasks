@@ -14,7 +14,7 @@ I am Rahul Rajesh Kumar From Kerala,fresher at Amrita School of Engineering(CSE 
 | Task-08    | Internet Explorer                | Completed          |
 | Task-09    | Krypto Scrapper                  | Completed          |
 | Task-10    | CS50                             | Not Completed      |
-| Task-11    | Figma Ninja                      | Not Completed      |
+| Task-11    | Figma Ninja                      | Completed          |
 | Task-12    | Bunny Heist                      | Not Completed      |
 | Task-13    | Footfall Counter                 | Completed          |
 | Task-14    | Bandit                           | Completed          |
