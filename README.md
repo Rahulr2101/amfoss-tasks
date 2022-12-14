@@ -9,7 +9,7 @@ I am Rahul Rajesh Kumar From Kerala,fresher at Amrita School of Engineering(CSE 
 | Task-03    | Programming                      | Done Nine Question |
 | Task-04    | CineBot                          | Completed          |
 | Task-05    | Find The Bug                     | Completed          |
-| Task-06    | Flame game                       | Not Completed      |
+| Task-06    | Flame game                       | Completed          |
 | Task-07    | Go WASM                          | Completed          |
 | Task-08    | Internet Explorer                | Completed          |
 | Task-09    | Krypto Scrapper                  | Completed          |
