@@ -9,7 +9,7 @@ I found out that HCF of 336 and 702 is 6. So i used cd 06 for navigate inside th
 I used **git log** to see commit log of the repository.
 I used **git add -A** to add all file to the staging area. After that i used **git commit** to commit my work.
 
-## In thrid part
+## In the third part
 
 I followed the instrution given in githun page. So I used **git branch -a** to list all local and remote branches and git checkout for switch to new branch.
 I found out at Goddess of War from Greek mythology was Athena . Then I searched city named after Athena and found that Athena is the city named after Godness of war. So I used **find . -name athena.txt** to locate the file.
