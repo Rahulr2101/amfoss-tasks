@@ -1,5 +1,6 @@
 # Terminalhunt
-In the first part
+**In the first part**
+
 I multiply the smallest perfect number by 44 at is 44*6=264. I found the element was Bohrium. So i used cat>part1.txt for write the atomic number in part1.txt
 In the Second part
 I found out that HCF of 336 and 702 is 6. So i used cd 06 for navigate inside the directory.The fourth digit of pi is 1. For moving the file I used mv 1.txt ../solution and used mv 1.txt part2.txt for rename the file
