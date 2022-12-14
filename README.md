@@ -13,9 +13,9 @@ I am Rahul Rajesh Kumar From Kerala,fresher at Amrita School of Engineering(CSE 
 | [Task-07](https://github.com/Rahulr2101/amfoss-tasks/tree/main/task-07)    | Go WASM                          | Completed          |
 | [Task-08](https://github.com/Rahulr2101/amfoss-tasks/tree/main/task-08)    | Internet Explorer                | Completed          |
 | [Task-09](https://github.com/Rahulr2101/amfoss-tasks/tree/main/task-09)    | Krypto Scrapper                  | Completed          |
-| [Task-10]()    | CS50                             | Not Completed      |
+| [Task-10]()    | CS50                             | Not Attempted      |
 | [Task-11](https://github.com/Rahulr2101/amfoss-tasks/tree/main/task-11)    | Figma Ninja                      | Completed          |
-| [Task-12]()    | Bunny Heist                      | Not Completed      |
+| [Task-12]()    | Bunny Heist                      | Not Attempted      |
 | [Task-13](https://github.com/Rahulr2101/amfoss-tasks/tree/main/task-13)    | Footfall Counter                 | Completed          |
 | [Task-14](https://github.com/Rahulr2101/amfoss-tasks/tree/main/task-14)    | Bandit                           | Completed          |
-| [Task-15]()    | Project Euler (for math geeks)   | Not Completed      |
+| [Task-15]()    | Project Euler (for math geeks)   | Not Attempted      |
