@@ -1,5 +1,5 @@
 # Terminalhunt
-**In the first part**
+## In the first part
 
 I multiply the smallest perfect number by 44 at is 44*6=264. I found the element was Bohrium. So i used cat>part1.txt for write the atomic number in part1.txt
 In the Second part
